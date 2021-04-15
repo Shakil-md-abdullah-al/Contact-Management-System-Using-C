@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1616491637 source:c:\users\pc\desktop\railway management system\contact manageent\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1616491637 source:c:\users\pc\desktop\railway management system\contact manageent\about.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1616491637 source:c:\users\pc\desktop\railway management system\contact manageent\home sereen.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1616492595 source:c:\users\pc\desktop\railway management system\contact manageent\registration and login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1616491637 source:c:\users\pc\desktop\railway management system\contact manageent\user menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
